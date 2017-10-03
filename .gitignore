@@ -28,7 +28,7 @@ __pycache__/
 *.odp#
 
 # jupyter
-#.ipynb*
+.ipynb*
 
 # logins
 *.login
